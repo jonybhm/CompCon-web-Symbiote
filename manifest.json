@@ -1,0 +1,26 @@
+{
+  "manifestVersion": 1,
+  "name": "Comp/Con Symbiote",
+  "summary": "A Symbiote to use the Digital tool for players and GMs of the LANCER TTRPG.",
+  "entryPoint": "https://compcon.app/#/",
+  "descriptionFilePath": "/README.md",
+  "version": "1.0",
+  "about": {
+    "website": "https://github.com/PanoramicPanda/ddb_observeGameLog",
+    "authors": [
+      "Jonathan De Castro"
+    ]
+  },
+  "controls": {
+    "reload": true,
+    "navigation": true
+  },
+  "icons": {
+    "64x64": "/compcon.png"
+  },
+  "environment": {
+    "capabilities": [
+      "runInBackground"
+    ]
+  }
+}
